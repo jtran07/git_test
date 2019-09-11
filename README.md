@@ -1,1 +1,1 @@
-This si JTran's first git project!
+This is JTran's first git project!
